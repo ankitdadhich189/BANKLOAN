@@ -1,7 +1,7 @@
 # BANK LOAN ANALYSIS
-#### AUTHOR [ANKIT DADHICH](https://www.linkedin.com/in/ankit-dadhich-a06705261/)
-##### Click [Here](https://drive.google.com/drive/folders/1HYiD610dw4vmHb29ZAbbCsdL4q77RoWo?usp=sharing) to See the Project Files 
-##### Click [Here](https://app.powerbi.com/view?r=eyJrIjoiODA2OWU0ZjItNzc3Ny00NGQyLTk5NmItMWQyMTc3MDJjZmNjIiwidCI6IjA3MjZjNDJjLWQ2YjAtNGM5Zi1iZTVjLTM4NTlkMDVmNDhmNyJ9) To see the dashboard
+### AUTHOR [ANKIT DADHICH](https://www.linkedin.com/in/ankit-dadhich-a06705261/)
+### Click [Here](https://drive.google.com/drive/folders/1HYiD610dw4vmHb29ZAbbCsdL4q77RoWo?usp=sharing) to See the Project Files 
+### Click [Here](https://app.powerbi.com/view?r=eyJrIjoiODA2OWU0ZjItNzc3Ny00NGQyLTk5NmItMWQyMTc3MDJjZmNjIiwidCI6IjA3MjZjNDJjLWQ2YjAtNGM5Zi1iZTVjLTM4NTlkMDVmNDhmNyJ9) To see the dashboard
 
 ## OVERVIEW
 Bank loans are a crucial financial tool that enables individuals and businesses to achieve their goals and manage financial needs. 
